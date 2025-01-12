@@ -1,0 +1,28 @@
+<div class='cart-content'>
+<div class='SimpleCart_items'>
+<th>Size:</th>
+<td><span class='orderdetails-size'/></td>
+<th>Color:</th>
+<td><span class='orderdetails-color'/></td>
+</div>
+<div class='total-feet'>
+<table>
+<tbody>
+<tr>
+<td class='odd'>SubTotal: </td>
+<td class='even'><span class='SimpleCart_total'>0</span></td>
+</tr>
+<tr class='shippingc'>
+<td class='odd'>Shipping Fee: </td>
+<td class='even'><span class='SimpleCart_shipping'/></td>
+</tr>
+<tr class='grtotal'>
+<td class='odd'>Grand Total: </td>
+<td class='even'><span class='SimpleCart_grandTotal'/></td>
+</tr>
+<!--Da an shoptotal-->
+</tbody>
+</table>
+<div class='cartbuttons'>
+<a class='SimpleCart_empty' href='javascript:;'>Empty Cart</a>
+</div>
